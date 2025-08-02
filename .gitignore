@@ -1,0 +1,53 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment files and folders
+.env
+.venv/
+env/
+ENV/
+venv/
+*.conda
+*.env
+*.bat
+*.sh
+
+# Conda environment (optional)
+*.yml
+
+# VSCode and IDE configs
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs and outputs (non-YOLO)
+*.log
+*.out
+*.err
+
+# Datasets (optional - keep if needed)
+data/
+dataset/
+*.zip
+
+# OS/system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Application builds (optional)
+*.exe
+*.apk
+*.app
+*.ipynb
