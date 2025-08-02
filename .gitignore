@@ -36,6 +36,7 @@ venv/
 # Datasets (optional - keep if needed)
 data/
 dataset/
+prediction/
 *.zip
 
 # OS/system files
